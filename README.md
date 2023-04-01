@@ -8,9 +8,8 @@
 </div>
 <h3>Stack</h3>
 <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black">
- <img src="https://img.shields.io/badge/c/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
+<img src="https://img.shields.io/badge/c/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/Python-054480?style=flat-square&logo=python&logoColor=white">
-  <br>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cryptogus&show_icons=true&theme=merko)
