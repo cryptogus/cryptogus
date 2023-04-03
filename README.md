@@ -1,8 +1,6 @@
 # 🍀About me🍀
 <div align="left">
 <h3> 활동 </h3>
-🏅 <a href="https://www.cryptolab.co.kr">크립토랩</a> (2023.01 ~ )
-<br>
 🏅 KITRI BoB 11th 보안제품개발 트랙 (2022.07 ~ 2023.03)  
 <br>
 🏅 정보보안 동아리 PEPSI (2020.08 ~ 2022.06)
