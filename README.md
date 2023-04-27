@@ -1,5 +1,5 @@
 # 🍀About me🍀
-<div align="left">
+<div align="cen">
 <h3> 활동 </h3>
 🏅 KITRI BoB 11th 보안제품개발 트랙 (2022.07 ~ 2023.03)  
 <br>
@@ -9,7 +9,7 @@
 
 <h3>Stack</h3>
 <div style="text-align : center;">
-<img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/c/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Python-054480?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/c/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Python-054480?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">  <img src="https://img.shields.io/badge/Qt-41CD52?style=flat&logo=Qt&logoColor=white"/>  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=Wireshark&logoColor=white"/>
 </div>
 <br>
 
