@@ -8,7 +8,9 @@
 <br>
   -->
 <h3> 활동 </h3>
-🏅 KITRI(한국정보기술연구원) - BoB(차세대 보안리더 양성프로그램)
+🏅 KITRI(한국정보기술연구원) - <a href="https://www.kitribob.kr/">BoB(차세대 보안리더 양성프로그램) </a>
+<br>
+<a href="https://www.kitribob.kr/trainee_walk/result"> 성과 </a>
 <h3> 수상 </h3>
 🏆 KISA 원장상 (한국인터넷진흥원)
 <br>
