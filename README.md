@@ -6,6 +6,9 @@
 <br>
 🏅 Kookmin University 정보보안 동아리 (2020.08 ~ 2022.06)
 <br>
+  -->
+<h3> 활동 </h3>
+🏅 KITRI(한국정보기술연구원) - BoB(차세대 보안리더 양성프로그램)
 <h3> 수상 </h3>
 🏆 KISA 원장상 (한국인터넷진흥원)
 <br>
@@ -13,7 +16,7 @@
 <br>
 🏆 (국가정보원)
 </div>
--->
+
 <h3>Stack</h3>
 <div style="text-align : center;">
 <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/c/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Python-054480?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">  <img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=Qt&logoColor=white">  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=Wireshark&logoColor=white">  <img src="https://img.shields.io/badge/CMake-424F52.svg?style=flat-square&logo=CMake&logoColor=white">
