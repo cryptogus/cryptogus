@@ -8,15 +8,17 @@
 <br>
   -->
 <h3> 활동 </h3>
-🏅 KITRI(한국정보기술연구원) - <a href="https://www.kitribob.kr/">BoB(차세대 보안리더 양성프로그램) </a>
+🏅 KITRI(한국정보기술연구원) - <a href="https://www.kitribob.kr/">BoB(차세대 보안리더 양성프로그램 Next-Generation Security Leader Training Program) </a>
 <br>
 <a href="https://www.kitribob.kr/trainee_walk/result"> 성과 </a>
 <h3> 수상 </h3>
-🏆 KISA 원장상 (한국인터넷진흥원)
+🏆 KISA 원장상 (한국인터넷진흥원 Korea Internet & Security Agency)
 <br>
-🏆 777 사령관상 (국방암호특화연구센터)
+🏆 777 사령관상 (국방암호특화연구센터 Defense Cryptography Specialized Research Center)
 <br>
-🏆 (국가정보원)
+🏆 - (국가정보원 National Intelligence Service (NIS))
+<br>
+🏆 Selection of Scholarship Recipients by the Faculty Association in 2021
 </div>
 
 <h3>Stack</h3>
