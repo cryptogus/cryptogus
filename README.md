@@ -7,16 +7,20 @@
 🏅 Kookmin University 정보보안 동아리 (2020.08 ~ 2022.06)
 <br>
   -->
-<h3> 활동 </h3>
+<h3> 활동 (Activities)</h3>
 🏅 KITRI(한국정보기술연구원) - <a href="https://www.kitribob.kr/">BoB(차세대 보안리더 양성프로그램 Next-Generation Security Leader Training Program) </a>
 <br>
 <a href="https://www.kitribob.kr/trainee_walk/result"> 성과 </a>
-<h3> 수상 </h3>
-🏆 KISA 원장상 (한국인터넷진흥원 Korea Internet & Security Agency)
+<h3> 수상 (Awards)</h3>
+🏆 KISA 원장상/KISA Director Award (한국인터넷진흥원/KISA[Korea Internet & Security Agency])
 <br>
-🏆 777 사령관상 (국방암호특화연구센터 Defense Cryptography Specialized Research Center)
+🏆 777 사령관상/Army Major General's Award (국방암호특화연구센터/Defense Cryptography Specialized Research Center)
 <br>
-🏆 - (국가정보원 National Intelligence Service (NIS))
+🏆 - (국가정보원/NIS[National Intelligence Service])
+<br>
+🏆 Outstanding Cryptography Club Award (KISA[Korea Internet & Security Agency], NIS[National Intelligence Service])
+<br>
+🏆 Outstanding Club Award (KUCIS, KISIA[Korea Information Security Industry Association])
 <br>
 🏆 Selection of Scholarship Recipients by the Faculty Association in 2021
 </div>
