@@ -10,7 +10,7 @@
   -->
 <h3> 활동 (Activities)</h3>
 🏅 KITRI(한국정보기술연구원) - <a href="https://www.kitribob.kr/">Best of the Best, SW development</a> <br>
-🗂️ KITRI Best of the Best 12th, [project](https://github.com/gazok) PL(Project Leader)
+🗂️ KITRI Best of the Best 12th, <a href="https://github.com/gazok">project</a> PL (Project Leader)
 <br>
 <h3> 수상 (Awards)</h3>
 🏆 KISA 원장상/KISA Director Award (한국인터넷진흥원/KISA[Korea Internet & Security Agency])
@@ -28,7 +28,7 @@
 
 <h3>Stack</h3>
 <div style="text-align : center;">
-<img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/c/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Python-054480?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">  <img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=Qt&logoColor=white">  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=Wireshark&logoColor=white">  <img src="https://img.shields.io/badge/CMake-424F52.svg?style=flat-square&logo=CMake&logoColor=white">
+<img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/c/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Python-054480?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">  <img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=Qt&logoColor=white">  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=Wireshark&logoColor=white">  <img src="https://img.shields.io/badge/CMake-424F52.svg?style=flat-square&logo=CMake&logoColor=white"> <!-- ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) -->
 </div>
 <br>
 
