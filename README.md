@@ -9,7 +9,7 @@
 <br>
   -->
 <h3> 활동 (Activities)</h3>
-🏅 KITRI(한국정보기술연구원) - <a href="https://www.kitribob.kr/">Best of the Best, SW development</a>
+🏅 KITRI(한국정보기술연구원) - <a href="https://www.kitribob.kr/">Best of the Best, SW development</a> <br>
 🗂️ KITRI Best of the Best 12th, [project](https://github.com/gazok) PL(Project Leader)
 <br>
 <h3> 수상 (Awards)</h3>
