@@ -4,6 +4,7 @@
 <h3> 활동 </h3>
 🏅 KITRI(한국정보기술연구원) - BoB(차세대 보안리더 양성프로그램) 11th 보안제품개발 트랙 (2022.07 ~ 2023.03)  
   KITRI Best of the Best 11th, SW development
+  KITRI Best of the Best 12th, [project](https://github.com/gazok) PL(Project Leader)
 <br>
 🏅 Kookmin University 정보보안 동아리 (2020.08 ~ 2022.06)
 <br>
