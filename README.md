@@ -33,9 +33,7 @@
 <br>
 
 <h3>Interested in</h3>
-<img src="https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazon-aws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazon-aws&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>
 <br>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cryptogus&show_icons=true&theme=merko)
