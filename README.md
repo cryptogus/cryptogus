@@ -26,10 +26,16 @@
 🏆 Selection of Scholarship Recipients by the Faculty Association in 2021
 </div>
 
-<h3>Stack</h3>
+<h3>Tech</h3>
 <div style="text-align : center;">
 <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/c/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Python-054480?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">  <img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=Qt&logoColor=white">  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=Wireshark&logoColor=white">  <img src="https://img.shields.io/badge/CMake-424F52.svg?style=flat-square&logo=CMake&logoColor=white"> <!-- ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) -->
 </div>
+<br>
+
+<h3>Interested in</h3>
+<img src="https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>
+
 <br>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cryptogus&show_icons=true&theme=merko)
