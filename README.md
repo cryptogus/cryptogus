@@ -35,11 +35,14 @@
 <h3>Interested in</h3>
 <div style="text-align : center;">
 <img src="https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazon-aws&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenTitan-0057b8?style=flat-square&logo=opentitan&logoColor=white" alt="OpenTitan Badge"/> 
+  → https://opentitan.org/
 </div>
 
 <h3>수료증</h3>
 https://www.inflearn.com/certificate/1313447-329541-12429818
-<br>
+<br><br>
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cryptogus&show_icons=true&theme=merko)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cryptogus&layout=compact&theme=merko)
 <!--[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dlwotn2)](https://solved.ac/dlwotn2)-->
