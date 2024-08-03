@@ -34,6 +34,7 @@
 
 <h3>Interested in</h3>
 <div style="text-align : center;">
+<img src="https://img.shields.io/badge/Hyperledger-2F3134?style=flat-square&logo=hyperledger&logoColor=white"/>  
 <img src="https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazon-aws&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenTitan-0057b8?style=flat-square&logo=opentitan&logoColor=white" alt="OpenTitan Badge"/> 
   → https://opentitan.org/
